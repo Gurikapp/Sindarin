@@ -9,7 +9,7 @@ export const words = [
   { word: "Orod", translation: "Гора" },
   { word: "Ungol", translation: "Паук" },
   { word: "Dûr", translation: "Тёмный" },
-  { word: "Ylf", translation: "Ylf Сосуд («для питья»)" },
+  { word: "Ylf", translation: "Сосуд («для питья»)" },
   { word: "Thalion", translation: "Герой" },
   { word: "Draug", translation: "Варг, волк" },
   { word: "Tiriel", translation: "Смотритель" },
