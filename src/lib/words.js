@@ -28,5 +28,18 @@ export const words = [
   { word: "Fara-", translation: "Охотиться" },
   { word: "Lhûg", translation: "Змея, червь" },
   { word: "Alph ", translation: "Лебедь" },
-  { word: "Cabor", translation: "Лягушка" }
+  { word: "Cabor", translation: "Лягушка" },
+  { word: "Edhellen", translation: "Синдарин, эльфийский язык" },
+  { word: "Edhel (Edhil) ", translation: "Эльф (Эльфы)" },
+  { word: "Elleth", translation: "Эльфийка" },
+  { word: "Adan (Edain)", translation: "Человек (Люди)" },
+  { word: "Naug (Noeg)", translation: "Гном (Гномы)" },
+  { word: "Perian (Periain)", translation: "Хоббит (Хоббиты)" },
+  { word: "Imladris", translation: "Ривенделл" },
+  { word: "Lothlorien", translation: "Лотлориен" },
+  { word: "Ardh", translation: "Земля (планета), страна (государство)" },
+  { word: "Ma", translation: "Да" },
+  { word: "Uin", translation: "Нет" },
+  { word: "Eneth", translation: "Имя" },
+  { word: "Mellon (Mellyn)", translation: "Друг (Друзья)" }
 ];

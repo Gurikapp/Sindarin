@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;1,300;1,400&family=Cormorant+SC:wght@300;400&display=swap');
+
+body {
+    background-color: #0a0a0a;
+    margin: 0 auto;
+    min-height: 100vh;
+}
+
+.maincontent {
+    max-width: 480px;
+    margin: 0 auto;
+    padding: 60px 40px;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    gap: 0;
+}
+
+.zaglavie {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 100%;
+    font-family: 'Cormorant Garamond', serif;
+    font-size: clamp(2.2rem, 1vw, 3.2rem);
+    font-weight: 300;
+    font-style: italic;
+    color: #f0ece4;
+    letter-spacing: 0.04em;
+    line-height: 1.1;
+    border-bottom: #f0ece4 1px solid;
+}
+
+.textMain {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 1.4rem;
+    font-weight: 400;
+    color: #c8c0a0;
+    letter-spacing: 0.08em;
+    margin: 0;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.zadanie {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-bottom: 20px;
+    p{
+            font-size: 1.5rem;
+            font-weight: bold;
+    }
+}
+
+.zadanieText {
+    display: flex;
+    flex-direction: column;
+}
+
+.divider {
+    height: 30px;
+}
+
+.tableZ {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 1rem;
+    color: #c8c0a0;
+    letter-spacing: 0.08em;
+    margin: 0;
+
+    th {
+        border: #c8c0a0 1px solid;
+    }
+
+    td {
+        border: #c8c0a0 1px solid;
+    }
+}
+
+.zadanie-VstavBukvi {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin-bottom: 20px;
+
+    .zadanie-VstavBukvi-stolb-stroka {
+        display: flex;
+        flex-direction: row;
+        
+        .probel{
+            width: 10px;
+        }
+    }
+}

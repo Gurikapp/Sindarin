@@ -1,5 +1,5 @@
 <script>
-	import MenuButton from '../components/MenuButton.svelte';
+	import MenuButton from '$lib/components/MenuButton.svelte';
 </script>
 
 <svelte:head>
