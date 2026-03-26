@@ -264,7 +264,7 @@
 	<table class="tableZ">
 		<thead>
 			<tr>
-				<th>Слова, которые следует выучить</th>
+				<th colspan="2">Слова, которые следует выучить</th>
 			</tr>
 		</thead>
 
