@@ -45,6 +45,7 @@
 		</p>
 		<AudioPlayer src="/audio/Edhellen_Urok3_Upr2.mp3" />
 	</div>
+	<Sochinenie />
 	<div class="divider"></div>
 
 	<div class="zadanie">
