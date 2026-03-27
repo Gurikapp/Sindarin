@@ -16,19 +16,26 @@
 	</div>
 	<div class="zadanieText">
 		<p class="textMain">1) Aras <WordInput /></p>
+		<br>
 		<p class="textMain">2) Adan <WordInput /></p>
+		<br>
 		<p class="textMain">3) Laboth <WordInput /></p>
+		<br>
 		<p class="textMain">4) Brog <WordInput /></p>
+		<br>
 		<p class="textMain">5) Ungo <WordInput /></p>
+		<br>
 		<p class="textMain">6) Garaf <WordInput /></p>
+		<br>
 		<p class="textMain">7) Draug <WordInput /></p>
-		<p class="textMain">А. Паук <WordInput /></p>
-		<p class="textMain">Б. Олень <WordInput /></p>
-		<p class="textMain">В. Варг <WordInput /></p>
-		<p class="textMain">Г. Волк <WordInput /></p>
-		<p class="textMain">Д. Человек <WordInput /></p>
-		<p class="textMain">Е. Заяц <WordInput /></p>
-		<p class="textMain">Ж. Медведь <WordInput /></p>
+		<br>
+		<p class="textMain">А. Паук</p>
+		<p class="textMain">Б. Олень</p>
+		<p class="textMain">В. Варг</p>
+		<p class="textMain">Г. Волк</p>
+		<p class="textMain">Д. Человек</p>
+		<p class="textMain">Е. Заяц</p>
+		<p class="textMain">Ж. Медведь</p>
 	</div>
 	<div class="divider"></div>
 
